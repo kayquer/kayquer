@@ -23,12 +23,6 @@ Atuo profissionalmente com programação desde 2013, desenvolvendo sites e scrip
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayquer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquer&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ## 🚀 Projetos Destacados
 
@@ -44,21 +38,13 @@ Implementação do clássico jogo de batalha naval em linguagem C, demonstrando 
 ### 🌐 Ping DNS Check
 Ferramenta em Node.js para verificação de conectividade e status de servidores DNS.
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayquer&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</div>
-
 ## 📫 Vamos nos conectar!
 
 <div align="center">
   <a href="https://github.com/kayquer" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:seuemail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+
 </div>
 
 ---
