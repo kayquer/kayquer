@@ -1,18 +1,20 @@
-# Olá! Eu sou Kayquer 👋
+# Olá! Eu sou Kayque 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Dev;Tecnologia;Sempre+Aprendendo&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Dev+Full+Stack;Tecnologia;Sempre+Aprendendo&center=true&width=380&height=45">
 </div>
 
 ## 🚀 Sobre Mim
 
-Atuo profissionalmente com programação desde 2013, desenvolvendo sites e scripts desde 2002. Atualmente sou Gerente de Tecnologia da Informação na ImobiBrasil, empresa onde trabalho desde 2018. Lá desenvolvo soluções inovadoras para o mercado imobiliário.
+Trabalho com programação desde 2013 e desenvolvo sites e scripts desde 2002 - ou seja, já são mais de 20 anos criando soluções digitais! Atualmente sou **Gerente de Tecnologia da Informação** na ImobiBrasil, onde estou desde 2018 desenvolvendo soluções inovadoras para o mercado imobiliário.
+
+Acredito que a tecnologia deve ser acessível e prática. Gosto de resolver problemas complexos de forma simples e sempre busco aprender algo novo no processo.
 
 - 🔭 Atualmente trabalho com desenvolvimento web e sistemas
-- 🌱 Sempre aprendendo novas tecnologias
-- 💬 Pergunte-me sobre JavaScript, PHP, C
-- 📫 Como me encontrar: [GitHub](https://github.com/kayquer)
-
+- 🌱 Sempre explorando novas tecnologias e tendências
+- 💬 Adoro conversar sobre JavaScript, PHP, C e desenvolvimento em geral
+- 🎯 Focado em criar soluções que realmente fazem a diferença
+- 📍 Localizado em Presidente Prudente, SP
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -23,27 +25,37 @@ Atuo profissionalmente com programação desde 2013, desenvolvendo sites e scrip
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 ## 🚀 Projetos Destacados
 
 ### 💧 Guardião da Água
-Sistema de monitoramento de água desenvolvido em JavaScript para controle e gestão de recursos hídricos.
+Sistema de monitoramento de água desenvolvido em JavaScript para controle e gestão de recursos hídricos - porque sustentabilidade também é código!
 
 ### 🏠 Classe Acesso Banco
-Biblioteca PHP para facilitar o acesso e manipulação de dados em bancos de dados, otimizando operações CRUD.
+Biblioteca PHP para facilitar o acesso e manipulação de dados em bancos de dados, otimizando operações CRUD e tornando o desenvolvimento mais ágil.
 
 ### ⚔️ Batalha Naval
-Implementação do clássico jogo de batalha naval em linguagem C, demonstrando lógica de programação e algoritmos.
+Implementação do clássico jogo de batalha naval em linguagem C, demonstrando lógica de programação e algoritmos de forma divertida.
 
 ### 🌐 Ping DNS Check
-Ferramenta em Node.js para verificação de conectividade e status de servidores DNS.
+Ferramenta em Node.js para verificação de conectividade e status de servidores DNS - para quando você precisa ter certeza de que tudo está funcionando.
 
+## 📫 Vamos Conversar?
+
+Sempre aberto para trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia!
 
 <div align="center">
   <a href="https://github.com/kayquer" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
+  <a href="https://www.linkedin.com/in/kayquerotondo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/kayquerotondo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:kayquerocha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ---
