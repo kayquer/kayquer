@@ -1,7 +1,7 @@
 # Olá! Eu sou Kayque 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Dev+Full+Stack;Tecnologia;Sempre+Aprendendo&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Dev;Tecnologia;Sempre+Aprendendo&center=true&width=380&height=45">
 </div>
 
 ## 🚀 Sobre Mim
