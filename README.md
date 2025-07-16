@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Trabalho com programação desde 2013 e desenvolvo sites e scripts desde 2002 - ou seja, já são mais de 20 anos criando soluções digitais! Atualmente sou **Gerente de Tecnologia da Informação** na ImobiBrasil, onde estou desde 2018 desenvolvendo soluções inovadoras para o mercado imobiliário.
+Trabalho com programação desde 2013 e desenvolvo sites e scripts desde 2002 (11 anos de idade) - ou seja, já são mais de 20 anos criando soluções digitais! Atualmente sou **Gerente de Tecnologia da Informação** na ImobiBrasil, onde estou desde 2018 desenvolvendo soluções inovadoras para o mercado imobiliário.
 
 Acredito que a tecnologia deve ser acessível e prática. Gosto de resolver problemas complexos de forma simples e sempre busco aprender algo novo no processo.
 
