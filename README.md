@@ -39,7 +39,7 @@ Implementação do clássico jogo de batalha naval em linguagem C, demonstrando 
 ### 🌐 Ping DNS Check
 Ferramenta em Node.js para verificação de conectividade e status de servidores DNS - para quando você precisa ter certeza de que tudo está funcionando.
 
-## 📫 Vamos Conversar?
+## 📫 Onde Estou?
 
 Sempre aberto para trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia!
 
