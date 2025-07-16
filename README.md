@@ -1,7 +1,7 @@
 # Olá! Eu sou Kayquer 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Dev;Tecnologia;Sempre+Aprendendo&center=true&width=380&height=45">
 </div>
 
 ## 🚀 Sobre Mim
@@ -38,7 +38,6 @@ Implementação do clássico jogo de batalha naval em linguagem C, demonstrando 
 ### 🌐 Ping DNS Check
 Ferramenta em Node.js para verificação de conectividade e status de servidores DNS.
 
-## 📫 Vamos nos conectar!
 
 <div align="center">
   <a href="https://github.com/kayquer" target="_blank">
