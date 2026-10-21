@@ -1,61 +1,61 @@
-# Olá! Eu sou Kayque 👋
+# Kayque 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Dev;Tecnologia;Sempre+Aprendendo&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=PHP+e+MySQL;Flutter;Skills+para+Claude+Code&center=true&width=380&height=45">
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 Sobre mim
 
-Trabalho com programação desde 2013 e desenvolvo sites e scripts desde 2002 (11 anos de idade) - ou seja, já são mais de 20 anos criando soluções digitais! Atualmente sou **Gerente de Tecnologia da Informação** na ImobiBrasil, onde estou desde 2018 desenvolvendo soluções inovadoras para o mercado imobiliário.
+Escrevo código desde 2002, quando tinha 11 anos, e trabalho com isso desde 2013. Sou **Gerente de Tecnologia da Informação** na ImobiBrasil desde 2018. Lá cuido do CRM imobiliário de ponta a ponta: backend em PHP e MySQL, app em Flutter e a infraestrutura.
 
-Acredito que a tecnologia deve ser acessível e prática. Gosto de resolver problemas complexos de forma simples e sempre busco aprender algo novo no processo.
 
-- 🔭 Atualmente trabalho com desenvolvimento web e sistemas
-- 🌱 Sempre explorando novas tecnologias e tendências
-- 💬 Adoro conversar sobre JavaScript, PHP, C e desenvolvimento em geral
-- 🎯 Focado em criar soluções que realmente fazem a diferença
-- 📍 Localizado em Presidente Prudente, SP
 
-## 🛠️ Tecnologias e Ferramentas
+- 📍 Presidente Prudente, SP
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🛠️ Tecnologias
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![LeetCode Stats](https://leetcard.jacoblin.cool/kayquer?theme=dark&font=Federant)
 
-## 🚀 Projetos Destacados
+## 📂 Projetos
 
-### 💧 Guardião da Água
-Sistema de monitoramento de água desenvolvido em JavaScript para controle e gestão de recursos hídricos - porque sustentabilidade também é código!
+### ✂️ [deai-text](https://github.com/kayquer/deai-text)
+Skill que remove padrões de texto de IA. Para cada padrão encontrado ela cita o trecho com um ID de regra, reescreve o texto e faz uma segunda passada na reescrita. O catálogo em português é próprio, não tradução do inglês: pega o gerúndio final (`..., garantindo mais segurança`), o `possui` no lugar de `tem` e decalques como `alavancar`. A suíte de regressão testa também o que **não** deve ser marcado.
 
-### 🏠 Classe Acesso Banco
-Biblioteca PHP para facilitar o acesso e manipulação de dados em bancos de dados, otimizando operações CRUD e tornando o desenvolvimento mais ágil.
+Instala como plugin do Claude Code ou entra como system prompt em qualquer outro LLM.
 
-### ⚔️ Batalha Naval
-Implementação do clássico jogo de batalha naval em linguagem C, demonstrando lógica de programação e algoritmos de forma divertida.
+### 📐 [Português Técnico Controlado](https://github.com/kayquer/portugues-tecnico-controlado)
+Skill do Claude Code que reescreve texto técnico em PT-BR para ter uma leitura só. Inspirada no ASD-STE100, com 8 regras próprias (sujeito explícito, uma proposição por frase, termos congelados, formato de número e data), 3 níveis de rigor e um modo bilíngue EN/PT que confere se as duas versões dizem a mesma coisa. Serve para tutorial, documentação e procedimento.
 
-### 🌐 Ping DNS Check
-Ferramenta em Node.js para verificação de conectividade e status de servidores DNS - para quando você precisa ter certeza de que tudo está funcionando.
+[Página de instalação](https://kayquer.github.io/portugues-tecnico-controlado)
 
-## 📫 Onde Estou?
+### 💧 [Guardião da Água](https://github.com/kayquer/guardiao_da_agua_js)
+Jogo educativo 3D isométrico sobre o uso consciente e responsável dos recursos hídricos. Feito em JavaScript com Babylon.js.
 
-Sempre aberto para trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia!
+### ⚔️ [Batalha Naval](https://github.com/kayquer/batalha-naval)
+O jogo clássico implementado em C.
+
+## 📫 Contato
+
+Para os projetos, as issues do repositório são o melhor caminho. Para o resto, e-mail ou LinkedIn.
 
 <div align="center">
-  <a href="https://github.com/kayquer" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="mailto:kayquerocha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/kayquerotondo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/kayquerotondo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:kayquerocha@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
