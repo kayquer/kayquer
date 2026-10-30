@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">deai-text: antes e depois</title>
+  <desc id="desc">Caso de teste do deai-text. Antes: A nova versão possui integração com o gateway de pagamento, garantindo mais segurança nas transações. A regra AI-9 marca possui e a AI-10 marca o gerúndio final. Depois: A nova versão integra o gateway de pagamento. Os dados do cartão não passam mais pelo nosso servidor.</desc>
+
+  <rect width="1200" height="400" rx="24" fill="#F4EFE4"/>
+
+  <g id="header" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="64" y="64" font-size="22" font-weight="700" fill="#1C1A17">deai-text</text>
+    <text x="1136" y="64" font-size="17" fill="#9A9184" text-anchor="end">tests/casos/</text>
+  </g>
+
+  <g id="before" transform="translate(64 96)">
+    <rect width="500" height="256" rx="14" fill="#FFFDF8"/>
+    <text x="32" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" letter-spacing="1.5" fill="#9A9184">ANTES</text>
+    <g font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#1C1A17">
+      <text x="32" y="92">A nova versão <tspan fill="#B4361E" text-decoration="line-through">possui</tspan> integração</text>
+      <text x="32" y="126">com o gateway de pagamento<tspan fill="#B4361E" text-decoration="line-through">,</tspan></text>
+      <text x="32" y="160" fill="#B4361E" text-decoration="line-through">garantindo mais segurança</text>
+      <text x="32" y="194" fill="#B4361E"><tspan text-decoration="line-through">nas transações</tspan><tspan fill="#1C1A17">.</tspan></text>
+    </g>
+    <text x="32" y="232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#B4361E">AI-9 <tspan font-weight="400" fill="#7A7266">possui</tspan>   AI-10 <tspan font-weight="400" fill="#7A7266">gerúndio final</tspan></text>
+  </g>
+
+  <path d="M584 224 H612 M602 212 L614 224 L602 236" fill="none" stroke="#B4361E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g id="after" transform="translate(636 96)">
+    <rect width="500" height="256" rx="14" fill="#1C1A17"/>
+    <text x="32" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" letter-spacing="1.5" fill="#A39A8B">DEPOIS</text>
+    <g font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#F4EFE4">
+      <text x="32" y="92">A nova versão <tspan fill="#F2A28E" font-weight="700">integra</tspan> o gateway</text>
+      <text x="32" y="126">de pagamento. Os dados do</text>
+      <text x="32" y="160">cartão não passam mais pelo</text>
+      <text x="32" y="194">nosso servidor.</text>
+    </g>
+    <text x="32" y="232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#A39A8B">diz contra o quê é a segurança</text>
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Português Técnico Controlado: runbook no nível estrito</title>
+  <desc id="desc">Tabela de violações de um runbook reescrito pela skill. PTC-1: deve-se verificar vira verifique. PTC-4: realize a validação vira valide. PTC-7: 1.5 GB vira 1,5 GB. PTC-8: micro-serviços vira microsserviços. Medido: 12,3 para 7,5 palavras por frase, Flesch-PT de 74,0 para 80,5.</desc>
+
+  <rect width="1200" height="440" rx="24" fill="#0F1720"/>
+
+  <g id="header" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="64" y="64" font-size="22" font-weight="700" fill="#E6EDF3">português técnico controlado</text>
+    <text x="1136" y="64" font-size="17" fill="#7D8A99" text-anchor="end">nível: estrito · runbook</text>
+  </g>
+
+  <g id="table" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <g font-size="16" letter-spacing="1.5" fill="#7D8A99">
+      <text x="64" y="118">REGRA</text>
+      <text x="220" y="118">ORIGINAL</text>
+      <text x="700" y="118">REESCRITO</text>
+    </g>
+    <line x1="64" y1="134" x2="1136" y2="134" stroke="#263241" stroke-width="2"/>
+
+    <g font-size="23">
+      <g transform="translate(0 178)">
+        <text x="64" fill="#58A6FF" font-weight="700">PTC-1</text>
+        <text x="220" fill="#7D8A99" text-decoration="line-through">deve-se verificar os logs</text>
+        <text x="700" fill="#E6EDF3">verifique os logs</text>
+      </g>
+      <g transform="translate(0 228)">
+        <text x="64" fill="#58A6FF" font-weight="700">PTC-4</text>
+        <text x="220" fill="#7D8A99" text-decoration="line-through">Realize a validação</text>
+        <text x="700" fill="#E6EDF3">Valide</text>
+      </g>
+      <g transform="translate(0 278)">
+        <text x="64" fill="#58A6FF" font-weight="700">PTC-7</text>
+        <text x="220" fill="#7D8A99" text-decoration="line-through">1.5 GB</text>
+        <text x="700" fill="#E6EDF3">1,5 GB</text>
+      </g>
+      <g transform="translate(0 328)">
+        <text x="64" fill="#58A6FF" font-weight="700">PTC-8</text>
+        <text x="220" fill="#7D8A99" text-decoration="line-through">micro-serviços</text>
+        <text x="700" fill="#E6EDF3">microsserviços</text>
+      </g>
+    </g>
+    <g stroke="#58A6FF" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M640 170 H664 M656 162 L665 170 L656 178"/>
+      <path d="M640 220 H664 M656 212 L665 220 L656 228"/>
+      <path d="M640 270 H664 M656 262 L665 270 L656 278"/>
+      <path d="M640 320 H664 M656 312 L665 320 L656 328"/>
+    </g>
+    <line x1="64" y1="356" x2="1136" y2="356" stroke="#263241" stroke-width="2"/>
+  </g>
+
+  <text x="64" y="398" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#7D8A99">medido: <tspan fill="#E6EDF3">12,3 → 7,5</tspan> palavras por frase · Flesch-PT <tspan fill="#E6EDF3">74,0 → 80,5</tspan></text>
+</svg>

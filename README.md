@@ -1,51 +1,53 @@
 # Kayque 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=PHP+e+MySQL;Flutter;Skills+para+Claude+Code&center=true&width=380&height=45">
-</div>
-
-## 🚀 Sobre mim
-
 Escrevo código desde 2002, quando tinha 11 anos, e trabalho com isso desde 2013. Sou **Gerente de Tecnologia da Informação** na ImobiBrasil desde 2018. Lá cuido do CRM imobiliário de ponta a ponta: backend em PHP e MySQL, app em Flutter e a infraestrutura.
 
+Fora do trabalho, escrevo skills para o Claude Code que revisam texto em português e faço um jogo educativo sobre água no mestrado.
 
-
-- 📍 Presidente Prudente, SP
-
-## 🛠️ Tecnologias
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📂 Projetos
+## Projetos
 
 ### ✂️ [deai-text](https://github.com/kayquer/deai-text)
-Skill que remove padrões de texto de IA. Para cada padrão encontrado ela cita o trecho com um ID de regra, reescreve o texto e faz uma segunda passada na reescrita. O catálogo em português é próprio, não tradução do inglês: pega o gerúndio final (`..., garantindo mais segurança`), o `possui` no lugar de `tem` e decalques como `alavancar`. A suíte de regressão testa também o que **não** deve ser marcado.
 
-Instala como plugin do Claude Code ou entra como system prompt em qualquer outro LLM.
+Remove padrões de texto de IA. Cada trecho marcado sai com o ID da regra, a skill reescreve e depois faz uma segunda passada na reescrita.
+
+<a href="https://github.com/kayquer/deai-text"><img src="./assets/readme/deai-text.svg" width="100%" alt="Antes e depois do deai-text: 'possui' e o gerúndio final 'garantindo mais segurança nas transações' são marcados pelas regras AI-9 e AI-10; a reescrita diz que os dados do cartão não passam mais pelo servidor"></a>
+
+O catálogo em português é próprio, não tradução do inglês: pega o gerúndio final, o `possui` no lugar de `tem` e decalques como `alavancar`. A suíte de regressão testa também o que **não** deve ser marcado.
+
+```bash
+claude plugin marketplace add kayquer/deai-text
+claude plugin install deai-text
+```
+
+Também funciona como system prompt em qualquer outro LLM.
 
 ### 📐 [Português Técnico Controlado](https://github.com/kayquer/portugues-tecnico-controlado)
-Skill do Claude Code que reescreve texto técnico em PT-BR para ter uma leitura só. Inspirada no ASD-STE100, com 8 regras próprias (sujeito explícito, uma proposição por frase, termos congelados, formato de número e data), 3 níveis de rigor e um modo bilíngue EN/PT que confere se as duas versões dizem a mesma coisa. Serve para tutorial, documentação e procedimento.
 
-[Página de instalação](https://kayquer.github.io/portugues-tecnico-controlado)
+Reescreve texto técnico em PT-BR para ter uma leitura só. Inspirada no ASD-STE100, com 9 regras próprias, 3 níveis de rigor e um modo bilíngue EN/PT que confere se as duas versões dizem a mesma coisa.
+
+<a href="https://github.com/kayquer/portugues-tecnico-controlado"><img src="./assets/readme/ptc.svg" width="100%" alt="Tabela de violações de um runbook: PTC-1 'deve-se verificar' vira 'verifique', PTC-4 'Realize a validação' vira 'Valide', PTC-7 '1.5 GB' vira '1,5 GB', PTC-8 'micro-serviços' vira 'microsserviços'. Medido: 12,3 para 7,5 palavras por frase"></a>
+
+Serve para tutorial, documentação, runbook e procedimento. → [Página de instalação](https://kayquer.github.io/portugues-tecnico-controlado/) (Claude Code, Claude.ai, Cursor, Codex, Gemini CLI, ChatGPT e Perplexity)
 
 ### 💧 [Guardião da Água](https://github.com/kayquer/guardiao_da_agua_js)
-Jogo educativo 3D isométrico sobre o uso consciente e responsável dos recursos hídricos. Feito em JavaScript com Babylon.js.
+
+<a href="https://kayquer.github.io/guardiao_da_agua_js/"><img src="https://raw.githubusercontent.com/kayquer/guardiao_da_agua_js/HEAD/docs/media/cidade.webp" width="100%" alt="Cidade do Guardião da Água com bairros, reservatório, estação de tratamento e parque eólico"></a>
+
+Jogo educativo de construção de cidade sobre recursos hídricos, para o 6º ano. O estudante governa a cidade e aprende de onde vem a água, por que ela falta ou fica poluída e como cada escolha afeta rios e nascentes. Pesquisa de mestrado na Unesp, feito em JavaScript com Babylon.js.
+
+**[▶ Jogar no navegador](https://kayquer.github.io/guardiao_da_agua_js/)**, sem instalar nada.
 
 ### ⚔️ [Batalha Naval](https://github.com/kayquer/batalha-naval)
+
 O jogo clássico implementado em C.
+
+## 🛠️ Stack
+
+PHP · MySQL · JavaScript · Flutter · C · HTML e CSS · Cloudflare · Git · Claude Code
 
 ## 📫 Contato
 
-Para os projetos, as issues do repositório são o melhor caminho. Para o resto, e-mail ou LinkedIn.
+Para os projetos, as issues do repositório são o melhor caminho. Para o resto, e-mail ou LinkedIn. Moro em Presidente Prudente, SP.
 
 <div align="center">
   <a href="mailto:kayquerocha@gmail.com" target="_blank">
