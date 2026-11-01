@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Citações ABNT: checador de referências de um TCC</title>
+  <desc id="desc">Saída do checador em quatro referências. Deep learning, de LeCun, Bengio e Hinton: verificada em Crossref e OpenAlex. Pedagogia do oprimido, de Freire: verificada em OpenAlex e Open Library. Attention is all you need atribuído a Souza e Pereira: quimera, título real com autoria errada. Redes neurais quânticas na safra de café: não encontrada em nenhuma das bases consultadas. Embaixo, a chamada SILVA, 2020 corrigida para Silva, 2020 pela NBR 10520:2023.</desc>
+
+  <rect width="1200" height="440" rx="24" fill="#0F1720"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="64" y="64" font-size="22" font-weight="700" fill="#E6EDF3">checar_referencias.py tcc.docx</text>
+    <text x="1136" y="64" font-size="17" fill="#7D8A99" text-anchor="end">5 bases abertas · 50 instituições</text>
+
+    <g font-size="16" letter-spacing="1.5" fill="#7D8A99">
+      <text x="64" y="118">STATUS</text>
+      <text x="300" y="118">REFERÊNCIA</text>
+      <text x="1136" y="118" text-anchor="end">BASES</text>
+    </g>
+    <line x1="64" y1="134" x2="1136" y2="134" stroke="#263241" stroke-width="2"/>
+
+    <g font-size="22">
+      <g transform="translate(0 178)">
+        <text x="64" fill="#3FB950" font-weight="700">VERIFICADA</text>
+        <text x="300" fill="#E6EDF3">LECUN et al. Deep learning. 2015</text>
+        <text x="1136" fill="#7D8A99" text-anchor="end">crossref · openalex</text>
+      </g>
+      <g transform="translate(0 228)">
+        <text x="64" fill="#3FB950" font-weight="700">VERIFICADA</text>
+        <text x="300" fill="#E6EDF3">FREIRE. Pedagogia do oprimido. 1987</text>
+        <text x="1136" fill="#7D8A99" text-anchor="end">openalex · openlibrary</text>
+      </g>
+      <g transform="translate(0 278)">
+        <text x="64" fill="#D29922" font-weight="700">QUIMERA</text>
+        <text x="300" fill="#E6EDF3">SOUZA; PEREIRA. Attention is all you need</text>
+        <text x="1136" fill="#7D8A99" text-anchor="end">autor errado</text>
+      </g>
+      <g transform="translate(0 328)">
+        <text x="64" fill="#F85149" font-weight="700">NÃO ENCONTRADA</text>
+        <text x="300" fill="#7D8A99" text-decoration="line-through">MENDONÇA. Redes neurais quânticas…</text>
+        <text x="1136" fill="#7D8A99" text-anchor="end">0 de 5</text>
+      </g>
+    </g>
+    <line x1="64" y1="356" x2="1136" y2="356" stroke="#263241" stroke-width="2"/>
+
+    <text x="64" y="398" font-size="20" fill="#7D8A99">NBR 10520:2023: <tspan fill="#7D8A99" text-decoration="line-through">(SILVA, 2020, s.p.)</tspan> <tspan fill="#58A6FF">→</tspan> <tspan fill="#E6EDF3">(Silva, 2020)</tspan> · perfil USP, UFMG, UFRJ…</text>
+  </g>
+</svg>

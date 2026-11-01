@@ -2,7 +2,7 @@
 
 Escrevo código desde 2002, quando tinha 11 anos, e trabalho com isso desde 2013. Sou **Gerente de Tecnologia da Informação** na ImobiBrasil desde 2018. Lá cuido do CRM imobiliário de ponta a ponta: backend em PHP e MySQL, app em Flutter e a infraestrutura.
 
-Fora do trabalho, escrevo skills para o Claude Code que revisam texto em português e faço um jogo educativo sobre água no mestrado.
+Fora do trabalho, escrevo skills para o Claude Code que revisam texto em português e conferem citações ABNT, e faço um jogo educativo sobre água no mestrado.
 
 ## Projetos
 
@@ -28,6 +28,21 @@ Reescreve texto técnico em PT-BR para ter uma leitura só. Inspirada no ASD-STE
 <a href="https://github.com/kayquer/portugues-tecnico-controlado"><img src="./assets/readme/ptc.svg" width="100%" alt="Tabela de violações de um runbook: PTC-1 'deve-se verificar' vira 'verifique', PTC-4 'Realize a validação' vira 'Valide', PTC-7 '1.5 GB' vira '1,5 GB', PTC-8 'micro-serviços' vira 'microsserviços'. Medido: 12,3 para 7,5 palavras por frase"></a>
 
 Serve para tutorial, documentação, runbook e procedimento. → [Página de instalação](https://kayquer.github.io/portugues-tecnico-controlado/) (Claude Code, Claude.ai, Cursor, Codex, Gemini CLI, ChatGPT e Perplexity)
+
+### 📚 [Citações ABNT](https://github.com/kayquer/citacoes-abnt-skill)
+
+Confere se as referências de um TCC, artigo ou tese existem de fato e aplica a ABNT vigente com as regras do manual da universidade. Cada obra é procurada em cinco bases abertas (Crossref, OpenAlex, Semantic Scholar, Open Library e Google Books). Só passa como verificada a obra que aparece em pelo menos duas delas. Referência inventada por IA, título real com autor trocado e DOI de outra obra aparecem separados.
+
+<a href="https://github.com/kayquer/citacoes-abnt-skill"><img src="./assets/readme/citacoes-abnt.svg" width="100%" alt="Saída do checador: Deep learning e Pedagogia do oprimido verificadas em duas bases; Attention is all you need atribuído a Souza e Pereira marcado como quimera; um artigo sobre redes neurais quânticas na safra de café não encontrado em nenhuma base; embaixo, (SILVA, 2020, s.p.) corrigido para (Silva, 2020) pela NBR 10520:2023"></a>
+
+Formata pela NBR 6023:2025, 10520:2023 e 14724:2024. Traz os perfis de 50 instituições, entre elas USP, Unicamp, UFMG, UFRJ, institutos federais e Fatec, cada um com o link do manual oficial consultado. Também gera o modelo Word da instituição e exporta a bibliografia em BibTeX, RIS e CSL-JSON.
+
+```bash
+claude plugin marketplace add kayquer/citacoes-abnt-skill
+claude plugin install citacoes-abnt@citacoes-abnt-skill
+```
+
+→ [Regras de cada universidade](https://kayquer.github.io/citacoes-abnt-skill/) · [Normas ABNT vigentes em 2026](https://kayquer.github.io/citacoes-abnt-skill/normas-abnt-vigentes.html)
 
 ### 💧 [Guardião da Água](https://github.com/kayquer/guardiao_da_agua_js)
 
