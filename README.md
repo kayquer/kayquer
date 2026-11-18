@@ -6,20 +6,22 @@ Fora do trabalho, escrevo skills para o Claude Code que revisam texto em portugu
 
 ## Projetos
 
-### ✂️ [deai-text](https://github.com/kayquer/deai-text)
+### 🧊 [Assets 3D low poly no itch.io](https://kkyqr.itch.io)
 
-Remove padrões de texto de IA. Cada trecho marcado sai com o ID da regra, a skill reescreve e depois faz uma segunda passada na reescrita.
+<a href="https://kkyqr.itch.io"><img src="./assets/readme/itch-kkyqr.png" width="100%" alt="Banner do perfil kkyqr no itch.io: caixa d'água, casa térrea, ipê-amarelo, lobo-guará, carro de rali, piloto, placa de curva e roda low poly"></a>
 
-<a href="https://github.com/kayquer/deai-text"><img src="./assets/readme/deai-text.svg" width="100%" alt="Antes e depois do deai-text: 'possui' e o gerúndio final 'garantindo mais segurança nas transações' são marcados pelas regras AI-9 e AI-10; a reescrita diz que os dados do cartão não passam mais pelo servidor"></a>
+Oito packs de modelos 3D em glTF/GLB, todos em domínio público (CC0): uso livre, inclusive comercial, sem precisar de crédito. O download no itch é gratuito e a doação é opcional. O código e os scripts do Blender ficam no GitHub.
 
-O catálogo em português é próprio, não tradução do inglês: pega o gerúndio final, o `possui` no lugar de `tem` e decalques como `alavancar`. A suíte de regressão testa também o que **não** deve ser marcado.
-
-```bash
-claude plugin marketplace add kayquer/deai-text
-claude plugin install deai-text
-```
-
-Também funciona como system prompt em qualquer outro LLM.
+| Pack | O que tem | itch.io | GitHub |
+|---|---|---|---|
+| City Kit | 129 modelos para city builder: prédios, ruas e terreno modulares, veículos | [baixar](https://kkyqr.itch.io/low-poly-city-kit) | [repo](https://github.com/kayquer/kit-cidade-lowpoly) |
+| Brazil Buildings | 45 prédios com cara de cidade brasileira | [baixar](https://kkyqr.itch.io/low-poly-brazil-buildings-kit) | [repo](https://github.com/kayquer/kit-predios-brasil-lowpoly) |
+| Brazil Props | 100 props de natureza, rua, rio e poluição | [baixar](https://kkyqr.itch.io/low-poly-brazil-props-kit) | [repo](https://github.com/kayquer/kit-props-brasil-lowpoly) |
+| Threatened Fauna | 435 espécies do Livro Vermelho da fauna ameaçada | [baixar](https://kkyqr.itch.io/threatened-brazilian-fauna-low-poly-kit) | [repo](https://github.com/kayquer/kit-fauna-ameacada-lowpoly) |
+| Rally Fleet 64 | 89 carros de rali com visual de console de 64 bits | [baixar](https://kkyqr.itch.io/scitizia-rally-fleet-64) | [repo](https://github.com/kayquer/scitizia-frota-64) |
+| Rally People | 55 personagens com esqueleto e 10 animações | [baixar](https://kkyqr.itch.io/scitizia-people) | [repo](https://github.com/kayquer/scitizia-pessoas-64) |
+| Rally Props 64 | 142 props de rali, 69 quebráveis | [baixar](https://kkyqr.itch.io/scitizia-props-64) | [repo](https://github.com/kayquer/scitizia-props-64) |
+| Wheels 64 | 39 rodas, 36 pneus e 39 conjuntos montados | [baixar](https://kkyqr.itch.io/scitizia-wheels-64) | [repo](https://github.com/kayquer/scitizia-rodas-64) |
 
 ### 📐 [Português Técnico Controlado](https://github.com/kayquer/portugues-tecnico-controlado)
 
@@ -52,22 +54,20 @@ Jogo educativo de construção de cidade sobre recursos hídricos, para o 6º an
 
 **[▶ Jogar no navegador](https://kayquer.github.io/guardiao_da_agua_js/)**, sem instalar nada.
 
-### 🧊 [Assets 3D low poly no itch.io](https://kkyqr.itch.io)
+### ✂️ [deai-text](https://github.com/kayquer/deai-text)
 
-<a href="https://kkyqr.itch.io"><img src="./assets/readme/itch-kkyqr.png" width="100%" alt="Banner do perfil kkyqr no itch.io: caixa d'água, casa térrea, ipê-amarelo, lobo-guará, carro de rali, piloto, placa de curva e roda low poly"></a>
+Remove padrões de texto de IA. Cada trecho marcado sai com o ID da regra, a skill reescreve e depois faz uma segunda passada na reescrita.
 
-Oito packs de modelos 3D em glTF/GLB, todos em domínio público (CC0): uso livre, inclusive comercial, sem precisar de crédito. O download no itch é gratuito e a doação é opcional. O código e os scripts do Blender ficam no GitHub.
+<a href="https://github.com/kayquer/deai-text"><img src="./assets/readme/deai-text.svg" width="100%" alt="Antes e depois do deai-text: 'possui' e o gerúndio final 'garantindo mais segurança nas transações' são marcados pelas regras AI-9 e AI-10; a reescrita diz que os dados do cartão não passam mais pelo servidor"></a>
 
-| Pack | O que tem | itch.io | GitHub |
-|---|---|---|---|
-| City Kit | 129 modelos para city builder: prédios, ruas e terreno modulares, veículos | [baixar](https://kkyqr.itch.io/low-poly-city-kit) | [repo](https://github.com/kayquer/kit-cidade-lowpoly) |
-| Brazil Buildings | 45 prédios com cara de cidade brasileira | [baixar](https://kkyqr.itch.io/low-poly-brazil-buildings-kit) | [repo](https://github.com/kayquer/kit-predios-brasil-lowpoly) |
-| Brazil Props | 100 props de natureza, rua, rio e poluição | [baixar](https://kkyqr.itch.io/low-poly-brazil-props-kit) | [repo](https://github.com/kayquer/kit-props-brasil-lowpoly) |
-| Threatened Fauna | 435 espécies do Livro Vermelho da fauna ameaçada | [baixar](https://kkyqr.itch.io/threatened-brazilian-fauna-low-poly-kit) | [repo](https://github.com/kayquer/kit-fauna-ameacada-lowpoly) |
-| Rally Fleet 64 | 89 carros de rali com visual de console de 64 bits | [baixar](https://kkyqr.itch.io/scitizia-rally-fleet-64) | [repo](https://github.com/kayquer/scitizia-frota-64) |
-| Rally People | 55 personagens com esqueleto e 10 animações | [baixar](https://kkyqr.itch.io/scitizia-people) | [repo](https://github.com/kayquer/scitizia-pessoas-64) |
-| Rally Props 64 | 142 props de rali, 69 quebráveis | [baixar](https://kkyqr.itch.io/scitizia-props-64) | [repo](https://github.com/kayquer/scitizia-props-64) |
-| Wheels 64 | 39 rodas, 36 pneus e 39 conjuntos montados | [baixar](https://kkyqr.itch.io/scitizia-wheels-64) | [repo](https://github.com/kayquer/scitizia-rodas-64) |
+O catálogo em português é próprio, não tradução do inglês: pega o gerúndio final, o `possui` no lugar de `tem` e decalques como `alavancar`. A suíte de regressão testa também o que **não** deve ser marcado.
+
+```bash
+claude plugin marketplace add kayquer/deai-text
+claude plugin install deai-text
+```
+
+Também funciona como system prompt em qualquer outro LLM.
 
 ### ⚔️ [Batalha Naval](https://github.com/kayquer/batalha-naval)
 
