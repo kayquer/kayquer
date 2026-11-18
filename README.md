@@ -2,7 +2,7 @@
 
 Escrevo código desde 2002, quando tinha 11 anos, e trabalho com isso desde 2013. Sou **Gerente de Tecnologia da Informação** na ImobiBrasil desde 2018. Lá cuido do CRM imobiliário de ponta a ponta: backend em PHP e MySQL, app em Flutter e a infraestrutura.
 
-Fora do trabalho, escrevo skills para o Claude Code que revisam texto em português e conferem citações ABNT, e faço um jogo educativo sobre água no mestrado.
+Fora do trabalho, escrevo skills para o Claude Code que revisam texto em português e conferem citações ABNT, faço um jogo educativo sobre água no mestrado e publico packs de modelos 3D low poly gratuitos no [itch.io](https://kkyqr.itch.io).
 
 ## Projetos
 
@@ -52,6 +52,23 @@ Jogo educativo de construção de cidade sobre recursos hídricos, para o 6º an
 
 **[▶ Jogar no navegador](https://kayquer.github.io/guardiao_da_agua_js/)**, sem instalar nada.
 
+### 🧊 [Assets 3D low poly no itch.io](https://kkyqr.itch.io)
+
+<a href="https://kkyqr.itch.io"><img src="./assets/readme/itch-kkyqr.png" width="100%" alt="Banner do perfil kkyqr no itch.io: caixa d'água, casa térrea, ipê-amarelo, lobo-guará, carro de rali, piloto, placa de curva e roda low poly"></a>
+
+Oito packs de modelos 3D em glTF/GLB, todos em domínio público (CC0): uso livre, inclusive comercial, sem precisar de crédito. O download no itch é gratuito e a doação é opcional. O código e os scripts do Blender ficam no GitHub.
+
+| Pack | O que tem | itch.io | GitHub |
+|---|---|---|---|
+| City Kit | 129 modelos para city builder: prédios, ruas e terreno modulares, veículos | [baixar](https://kkyqr.itch.io/low-poly-city-kit) | [repo](https://github.com/kayquer/kit-cidade-lowpoly) |
+| Brazil Buildings | 45 prédios com cara de cidade brasileira | [baixar](https://kkyqr.itch.io/low-poly-brazil-buildings-kit) | [repo](https://github.com/kayquer/kit-predios-brasil-lowpoly) |
+| Brazil Props | 100 props de natureza, rua, rio e poluição | [baixar](https://kkyqr.itch.io/low-poly-brazil-props-kit) | [repo](https://github.com/kayquer/kit-props-brasil-lowpoly) |
+| Threatened Fauna | 435 espécies do Livro Vermelho da fauna ameaçada | [baixar](https://kkyqr.itch.io/threatened-brazilian-fauna-low-poly-kit) | [repo](https://github.com/kayquer/kit-fauna-ameacada-lowpoly) |
+| Rally Fleet 64 | 89 carros de rali com visual de console de 64 bits | [baixar](https://kkyqr.itch.io/scitizia-rally-fleet-64) | [repo](https://github.com/kayquer/scitizia-frota-64) |
+| Rally People | 55 personagens com esqueleto e 10 animações | [baixar](https://kkyqr.itch.io/scitizia-people) | [repo](https://github.com/kayquer/scitizia-pessoas-64) |
+| Rally Props 64 | 142 props de rali, 69 quebráveis | [baixar](https://kkyqr.itch.io/scitizia-props-64) | [repo](https://github.com/kayquer/scitizia-props-64) |
+| Wheels 64 | 39 rodas, 36 pneus e 39 conjuntos montados | [baixar](https://kkyqr.itch.io/scitizia-wheels-64) | [repo](https://github.com/kayquer/scitizia-rodas-64) |
+
 ### ⚔️ [Batalha Naval](https://github.com/kayquer/batalha-naval)
 
 O jogo clássico implementado em C.
@@ -73,6 +90,9 @@ Para os projetos, as issues do repositório são o melhor caminho. Para o resto,
   </a>
   <a href="https://www.instagram.com/kayquerotondo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://kkyqr.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"/>
   </a>
 </div>
 
