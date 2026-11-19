@@ -12,16 +12,16 @@ Fora do trabalho, escrevo skills para o Claude Code que revisam texto em portugu
 
 Oito packs de modelos 3D em glTF/GLB, todos em domínio público (CC0): uso livre, inclusive comercial, sem precisar de crédito. O download no itch é gratuito e a doação é opcional. O código e os scripts do Blender ficam no GitHub.
 
-| Pack | O que tem | itch.io | GitHub |
-|---|---|---|---|
-| City Kit | 129 modelos para city builder: prédios, ruas e terreno modulares, veículos | [baixar](https://kkyqr.itch.io/low-poly-city-kit) | [repo](https://github.com/kayquer/kit-cidade-lowpoly) |
-| Brazil Buildings | 45 prédios com cara de cidade brasileira | [baixar](https://kkyqr.itch.io/low-poly-brazil-buildings-kit) | [repo](https://github.com/kayquer/kit-predios-brasil-lowpoly) |
-| Brazil Props | 100 props de natureza, rua, rio e poluição | [baixar](https://kkyqr.itch.io/low-poly-brazil-props-kit) | [repo](https://github.com/kayquer/kit-props-brasil-lowpoly) |
-| Threatened Fauna | 435 espécies do Livro Vermelho da fauna ameaçada | [baixar](https://kkyqr.itch.io/threatened-brazilian-fauna-low-poly-kit) | [repo](https://github.com/kayquer/kit-fauna-ameacada-lowpoly) |
-| Rally Fleet 64 | 89 carros de rali com visual de console de 64 bits | [baixar](https://kkyqr.itch.io/scitizia-rally-fleet-64) | [repo](https://github.com/kayquer/scitizia-frota-64) |
-| Rally People | 55 personagens com esqueleto e 10 animações | [baixar](https://kkyqr.itch.io/scitizia-people) | [repo](https://github.com/kayquer/scitizia-pessoas-64) |
-| Rally Props 64 | 142 props de rali, 69 quebráveis | [baixar](https://kkyqr.itch.io/scitizia-props-64) | [repo](https://github.com/kayquer/scitizia-props-64) |
-| Wheels 64 | 39 rodas, 36 pneus e 39 conjuntos montados | [baixar](https://kkyqr.itch.io/scitizia-wheels-64) | [repo](https://github.com/kayquer/scitizia-rodas-64) |
+| Pack | O que tem | itch.io | GitHub | Vídeo |
+|---|---|---|---|---|
+| City Kit | 129 modelos para city builder: prédios, ruas e terreno modulares, veículos | [baixar](https://kkyqr.itch.io/low-poly-city-kit) | [repo](https://github.com/kayquer/kit-cidade-lowpoly) | [▶️ ver](https://www.youtube.com/watch?v=o9hur_gAZ-k) |
+| Brazil Buildings | 45 prédios com cara de cidade brasileira | [baixar](https://kkyqr.itch.io/low-poly-brazil-buildings-kit) | [repo](https://github.com/kayquer/kit-predios-brasil-lowpoly) | [▶️ ver](https://www.youtube.com/watch?v=HUA-u5IVFIA) |
+| Brazil Props | 100 props de natureza, rua, rio e poluição | [baixar](https://kkyqr.itch.io/low-poly-brazil-props-kit) | [repo](https://github.com/kayquer/kit-props-brasil-lowpoly) | [▶️ ver](https://www.youtube.com/watch?v=QNr0wf4MUew) |
+| Threatened Fauna | 435 espécies do Livro Vermelho da fauna ameaçada | [baixar](https://kkyqr.itch.io/threatened-brazilian-fauna-low-poly-kit) | [repo](https://github.com/kayquer/kit-fauna-ameacada-lowpoly) | [▶️ ver](https://www.youtube.com/watch?v=-u2Lek6Usvs) |
+| Rally Fleet 64 | 89 carros de rali com visual de console de 64 bits | [baixar](https://kkyqr.itch.io/scitizia-rally-fleet-64) | [repo](https://github.com/kayquer/scitizia-frota-64) | [▶️ ver](https://www.youtube.com/watch?v=G-UUvOGup1g) |
+| Rally People | 55 personagens com esqueleto e 10 animações | [baixar](https://kkyqr.itch.io/scitizia-people) | [repo](https://github.com/kayquer/scitizia-pessoas-64) | [▶️ ver](https://www.youtube.com/watch?v=Bqv8QLAiDzU) |
+| Rally Props 64 | 142 props de rali, 69 quebráveis | [baixar](https://kkyqr.itch.io/scitizia-props-64) | [repo](https://github.com/kayquer/scitizia-props-64) | [▶️ ver](https://www.youtube.com/watch?v=5mKvgGSDqMs) |
+| Wheels 64 | 39 rodas, 36 pneus e 39 conjuntos montados | [baixar](https://kkyqr.itch.io/scitizia-wheels-64) | [repo](https://github.com/kayquer/scitizia-rodas-64) | [▶️ ver](https://www.youtube.com/watch?v=1N9vVgjuItI) |
 
 ### 📐 [Português Técnico Controlado](https://github.com/kayquer/portugues-tecnico-controlado)
 
